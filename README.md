@@ -42,25 +42,6 @@ The "Analysis of RRR" project is focused on examining restaurant ratings, review
 - Bar charts illustrating top-rated restaurants in a specific city.
 - Word clouds highlighting common customer feedback keywords.
 
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/analysis-of-rrr.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd analysis-of-rrr
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the analysis notebook or script:
-   ```bash
-   jupyter notebook
-   ```
-5. View results and recommendations.
-
 ## 🔮 Future Work
 - Expanding the dataset to include additional cities and cuisines.
 - Integrating real-time data scraping for dynamic analysis.
